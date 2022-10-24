@@ -19,5 +19,5 @@ What things are needed to install the software and how to install them. For now,
 * [Python](https://www.python.org/) - The coding language used
 
 ## Authors
-
+I want to learn how to version control projects with git
 * **Sanket Kamat** - *Initial work* - [YourWebsite](https://example.com/)
